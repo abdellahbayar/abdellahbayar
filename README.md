@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Abdellah Bayar — IT Support and Security Labs" width="100%">
+  <img src="profile-banner.svg" alt="Abdellah Bayar — IT Support and Security Labs" width="100%">
 </p>
 
 <p align="center">
