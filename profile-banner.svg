@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Abdellah Bayar — IT Support and Security Labs</title>
+  <desc id="desc">A dark navy banner with cyan accents, a subtle event correlation diagram, and the words Windows logs, email investigation and detection practice.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#173047" stroke-width="1"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="280" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="280" fill="#0b172a"/>
+    <rect x="840" width="360" height="280" fill="url(#grid)" opacity=".5"/>
+    <circle cx="1150" cy="20" r="240" fill="#0d2b3d"/>
+    <circle cx="1150" cy="20" r="264" fill="none" stroke="#17506a"/>
+    <rect x="48" y="49" width="5" height="17" rx="2" fill="#08c6dd"/>
+    <text x="68" y="63" fill="#08c6dd" font-family="Consolas, monospace" font-size="15" letter-spacing="2">IT SUPPORT / SECURITY LABS</text>
+    <text x="48" y="133" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Abdellah Bayar</text>
+    <text x="50" y="174" fill="#b5c7d8" font-family="Arial, Helvetica, sans-serif" font-size="20">Investigating events. Connecting evidence.</text>
+    <path d="M50 209H728" stroke="#254458"/>
+    <text x="50" y="239" fill="#8ba6bc" font-family="Consolas, monospace" font-size="14">WINDOWS LOGS · EMAIL INVESTIGATION · DETECTION PRACTICE</text>
+    <g fill="none" stroke="#08c6dd" stroke-width="2" opacity=".8">
+      <path d="M880 119H928L954 154H1000L1026 119H1118"/>
+      <circle cx="880" cy="119" r="8" fill="#0d2b3d"/>
+      <circle cx="978" cy="154" r="8" fill="#0d2b3d"/>
+      <circle cx="1118" cy="119" r="8" fill="#0d2b3d"/>
+    </g>
+    <text x="854" y="94" fill="#8bb3c9" font-family="Consolas, monospace" font-size="15">4625</text>
+    <text x="952" y="190" fill="#8bb3c9" font-family="Consolas, monospace" font-size="15">4625</text>
+    <text x="1092" y="94" fill="#08c6dd" font-family="Consolas, monospace" font-size="15">4624</text>
+  </g>
+</svg>
