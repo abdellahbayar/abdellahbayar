@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm an **IT Technician at OTS**, based in Milan, building toward a **junior SOC / cybersecurity role**.
+I'm Abdellah from Milan, building toward a **Junior SOC / Cybersecurity role**.
 
 My day-to-day work involves Microsoft environments, user access and technical troubleshooting. In my home labs, I investigate authentication events, suspicious emails and message delivery, then document the evidence, findings and steps to reproduce the work.
 
